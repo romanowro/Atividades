@@ -1,0 +1,33 @@
+
+div.bloco{
+    height: 200px;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin: 5px;
+
+    background-image: url('/exercicio22/imagens/wallpaper002.jpg');
+}
+
+
+div#q1{
+
+    background-position: left top;
+} 
+
+div#q2{
+
+    background-position: left center;
+}
+
+div#q3{
+
+    background-position: right bottom;
+}
+
+div#q4{
+
+    
+    background-position: center center;
+    
+    
+}
