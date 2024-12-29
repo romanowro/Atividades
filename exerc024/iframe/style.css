@@ -1,0 +1,12 @@
+body{
+    background-color: rgba(172, 171, 169, 0.478);
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgba(36, 34, 34, 0.54);
+}
+
+iframe{
+   width: 400px;
+   height: 400px;
+   display: block;
+   margin: auto;
+}
